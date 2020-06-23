@@ -1,4 +1,4 @@
-#How to use this repository
+## How to use this repository
 
 Install all dependencies (testing dependent packages)
 "npm install"
